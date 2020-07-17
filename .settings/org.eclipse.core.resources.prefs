@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/depart/AddForm.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/record/AddForm.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/record/tableRecord.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/staff/tableStaff.jsp=UTF-8
+encoding//i18n-res/depart_vi.properties=UTF-8
+encoding//i18n-res/global_vi.properties=UTF-8
+encoding//i18n-res/record_vi.properties=UTF-8
+encoding//i18n-res/staff_vi.properties=UTF-8
